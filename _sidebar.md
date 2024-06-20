@@ -10,6 +10,6 @@
   * 小米CR660X刷入OPENWRT
 * 节点搭建
   * Cloudflare Warp 搭建节点
-  * Cloudflare Workers 搭建节点
+  * [Cloudflare Workers 搭建节点](/zh-cn/01/CF-Worker.md)
   * Cloudflare Pages 搭建节点
 
