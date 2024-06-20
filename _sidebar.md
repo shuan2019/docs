@@ -2,8 +2,7 @@
 
 * [首页](/)
 * [路由器刷机](/zh-cn/)
-  * 京东AX1800PRO破解SSH
-  * 京东AX1800PRO刷入OPWNERT
+  * [京东AX1800PRO破解SSH并刷机](/zh-cn/01/jdax1800op.md)
   * [京东AX1800PRO后挂在大分区](zh-cn/01/jdax1800fq.md)
   * 小米CR660X破解SSH
   * 小米CR660X刷入OPENWRT
