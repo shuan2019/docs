@@ -1,5 +1,7 @@
 <!-- docs/_sidebar.md -->
 
+<img src="https://pan.dos7.cn:6060/d/%E5%BE%AE%E8%BD%AF%E7%B3%BB%E7%BB%9F/%E5%BF%85%E5%A4%87%E8%BD%AF%E4%BB%B6/logoF.png" style="zoom:20%;" />
+
 * [首页](/)
 * [路由器刷机](/zh-cn/)
   * [京东AX1800PRO破解SSH并刷机](/zh-cn/01/jdax1800op.md)
