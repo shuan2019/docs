@@ -14,4 +14,4 @@
   * Cloudflare Pages 搭建节点
   * [自动优选IP并解析](/zh-cn/01/cfyx.md)
 
-* [Docker仓库镜像代理搭建](/zh-cn/01/docker.md)
+* [Docker仓库镜像代理搭建](/zh-cn/01/Docker.md)
