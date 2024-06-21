@@ -12,4 +12,5 @@
   * Cloudflare Warp 搭建节点
   * [Cloudflare Workers 搭建节点](/zh-cn/01/CF-Worker.md)
   * Cloudflare Pages 搭建节点
+  * [自动优选IP并解析](/zh-cn/01/cfyx.md)
 
