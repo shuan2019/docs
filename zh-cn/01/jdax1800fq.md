@@ -25,7 +25,7 @@ ls /mnt/mmcblk0p27
 ```
 block detect > /etc/config/fstab
 
-sed -i s*#/mnt/mmcblk0p27#/overlay# /etc/config/fstab*
+sed -i s#/mnt/mmcblk0p27#/overlay# /etc/config/fstab
 
 sed -i '12s/1/0/g' /etc/config/fstab
 ```
