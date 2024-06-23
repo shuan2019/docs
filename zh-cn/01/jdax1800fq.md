@@ -11,13 +11,13 @@ mkfs.ext4 -F /dev/mmcblk0p27
 #### 2.复制当前 overlay 文件到 mmcblk0p27
 
 ```
-`mkdir -p /mnt/mmcblk0p27`
+mkdir -p /mnt/mmcblk0p27
 
-`mount /dev/mmcblk0p27 /mnt/mmcblk0p27`
+mount /dev/mmcblk0p27 /mnt/mmcblk0p27
 
-`cp -r /overlay/* /mnt/mmcblk0p27`
+cp -r /overlay/* /mnt/mmcblk0p27
 
-`ls /mnt/mmcblk0p27`
+ls /mnt/mmcblk0p27
 ```
 
 #### 3.修改分区
